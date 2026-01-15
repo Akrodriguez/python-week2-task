@@ -1,0 +1,25 @@
+### Test Cases
+
+1. Name: Priya
+   Marks: 85  
+   Expected Grade: B  
+2. Name: Rahul
+   Marks: 92  
+   Expected Grade: A  
+3. Name: Anjali 
+   Marks: 75  
+   Expected Grade: C  
+4. Name: Rohan 
+   Marks: 65 
+   Expected Grade: D  
+5. Name: Kiran
+   Marks: 40 
+   Expected Grade: F  
+
+### Invalid Input Cases
+6. Input: 120 
+   Expected: Invalid input message  
+7. Input: -5 
+   Expected: Invalid input message  
+8. Input: abc 
+   Expected: Enter valid number  
